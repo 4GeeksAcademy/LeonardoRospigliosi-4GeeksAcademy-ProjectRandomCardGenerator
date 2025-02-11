@@ -1,5 +1,11 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: blue;
-}
+body {
+    background-color: green; 
+    padding: 0;
+    height: 100vh;
+  }
+
+  .container {
+    height: 100%; 
+  }
